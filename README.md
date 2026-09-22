@@ -1,68 +1,62 @@
 # Hi, I'm Surya Pratap Singh 👋
 
-### Data Analyst | Excel | SQL | Python | Power BI | Google Sheets
+### Data Analyst | Excel | SQL | Python | Power BI
 
-Welcome to my GitHub profile! I'm a Computer Science graduate interested in
-**Data Analytics, Business Intelligence, Data Visualization, and Problem Solving**.
+I’m a Computer Science graduate focused on **Data Analytics, Business Intelligence, and Data Visualization**.
 
-I enjoy transforming raw data into meaningful insights, building interactive
-dashboards, and solving real-world business problems using data.
+I enjoy cleaning raw data, analyzing business problems, building dashboards, and turning data into meaningful insights.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 📊 Aspiring Data Analyst
-- 🧹 Experienced in Data Cleaning & Data Preparation
-- 📈 Interested in Business Intelligence and Data Visualization
-- 🗄️ Working with SQL databases and data analysis
-- 🐍 Using Python and Pandas for data analysis
-- 📊 Building dashboards with Power BI and Excel
-- 📚 Continuously learning and improving my analytical skills
+* 🎓 B.Tech in Computer Science & Engineering
+* 📊 Aspiring Data Analyst
+* 🧹 Data Cleaning & Preparation
+* 📈 Business Intelligence
+* 🗄️ SQL Data Analysis
+* 🐍 Python & Pandas
+* 📊 Excel, Google Sheets & Power BI
+* 🚀 Continuously learning
+
+</td>
+<td width="50%" valign="top">
+
+## 🛠️ Tech Stack
+
+**Programming**
+🐍 Python
+
+**Databases**
+🗄️ MySQL · PostgreSQL · MongoDB, Firebase
+
+**Analytics & BI**
+📊 Excel · Power BI · Pandas
+
+**Visualization**
+📈 Matplotlib · Seaborn
+
+**Tools**
+🔧 Git · GitHub · Jupyter · Google Sheets · VS Code
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Skills
+## 📊 Core Analytics Skills
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Data Analytics & Visualization
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-### Tools
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-E97627?style=for-the-badge&logo=googlesheet&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 Data Analytics Skills
-
-- Data Cleaning
-- Data Validation
-- Exploratory Data Analysis
-- SQL Data Analysis
-- Excel Data Analysis
-- Pivot Tables & Pivot Charts
-- Dashboard Development
-- Business Insights
-- Customer Analysis
-- Sales Analysis
-- Inventory Analysis
-- Healthcare Data Analysis
-- Data Visualization
+| Data Analysis             | Business Intelligence |
+| ------------------------- | --------------------- |
+| Data Cleaning             | Dashboard Development |
+| Data Validation           | KPI Analysis          |
+| Exploratory Data Analysis | Business Reporting    |
+| SQL Analysis              | Sales Analysis        |
+| Excel Analysis            | Customer Analysis     |
+| Data Visualization        | Inventory Analysis    |
 
 ---
 
@@ -70,107 +64,90 @@ dashboards, and solving real-world business problems using data.
 
 ### 🛒 Retail Sales Analytics — Excel
 
-Analyzed retail sales data using Excel to understand sales, profit,
-customer trends, and regional performance.
+Analyzed retail sales data to identify **sales trends, top products, revenue performance, and regional insights**.
 
-**Key Work:**
-- Cleaned and organized raw retail sales data
-- Used sorting, filtering, and data validation
-- Created Pivot Tables and Pivot Charts
-- Built an interactive Excel dashboard
-- Analyzed Sales, Revenue, and Orders
-- Identified top-selling products
-- Analyzed monthly sales trends
-- Analyzed regional performance
+**Key Work:** Data Cleaning · Pivot Tables · Pivot Charts · Dashboard · Sales Analysis
 
-**Tech:** `Excel` `Pivot Tables` `Pivot Charts` `Data Analysis`
+`Excel` `Pivot Tables` `Data Analysis`
 
 ---
 
 ### 📦 Inventory & Stock Analysis — SQL + Excel
 
-Analyzed inventory data to identify product movement and support
-inventory optimization.
+Analyzed inventory data to identify **fast-moving and slow-moving products** and support better stock management.
 
-**Key Work:**
-- Extracted and analyzed data using SQL
-- Cleaned and analyzed data in Excel
-- Identified fast-moving products
-- Identified slow-moving products
-- Suggested reorder levels
-- Created inventory summary reports
+**Key Work:** SQL Queries · Data Cleaning · Product Movement · Reorder Analysis · Reporting
 
-**Tech:** `SQL` `Excel` `Data Cleaning` `Inventory Analysis`
+`SQL` `Excel` `Inventory Analysis`
 
 ---
 
-### 👥 Customer & Billing Analytics — SQL + Excel + Power BI
+### 👥 Customer & Billing Analytics — SQL + Power BI
 
-Analyzed customer and billing data to understand customer segments,
-purchase behavior, and revenue patterns.
+Analyzed customer and billing data to understand **customer segments, purchasing behavior, revenue, and high-value customers**.
 
-**Key Work:**
-- Extracted customer and billing data using SQL
-- Performed data cleaning and transformation
-- Built an interactive Power BI dashboard
-- Analyzed customer segments
-- Analyzed purchase trends
-- Analyzed revenue insights
-- Identified high-value customers
-- Identified customer buying patterns
+**Key Work:** SQL Analysis · Data Transformation · Customer Segmentation · Power BI Dashboard
 
-**Tech:** `SQL` `Excel` `Power BI` `Data Visualization`
+`SQL` `Excel` `Power BI`
 
 ---
 
-### 🏥 Health Management Analytics — SQL + Python
+### 🏥 Healthcare Data Analytics — SQL + Python
 
-Analyzed healthcare data to identify patient and hospital operational
-patterns.
+Analyzed healthcare data to identify **patient admission trends, department performance, and average length of stay**.
 
-**Key Work:**
-- Queried healthcare data using SQL
-- Cleaned data using Python and Pandas
-- Analyzed patient admissions
-- Analyzed department-wise trends
-- Calculated average length of stay
-- Identified important operational patterns
-- Created visualizations using Matplotlib and Seaborn
+**Key Work:** Data Cleaning · SQL Analysis · Pandas · Data Visualization
 
-**Tech:** `SQL` `Python` `Pandas` `Matplotlib` `Seaborn`
+`SQL` `Python` `Pandas` `Matplotlib`
 
 ---
 
-## 📊 What I'm Currently Working On
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🔹 Improving SQL for Data Analytics
-- 🔹 Building advanced Excel dashboards
-- 🔹 Creating Power BI dashboards
-- 🔹 Learning advanced Python for Data Analysis
-- 🔹 Working on real-world analytics projects
-- 🔹 Improving Business Intelligence skills
+## 📚 Currently Learning
+
+* Advanced SQL
+* Advanced Excel
+* Power BI & DAX
+* Python for Data Analysis
+* Business Intelligence
+* Data Engineering Fundamentals
+
+</td>
+<td width="50%" valign="top">
+
+## 🎯 Career Focus
+
+**Data Analytics → Business Intelligence → Data Engineering**
+
+I’m focused on developing strong analytical, technical, and problem-solving skills to solve real-world business problems using data.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Career Goal
+## 📈 What I Can Do
 
-My goal is to build a strong career in **Data Analytics** and eventually
-grow into advanced roles involving **Data Engineering and Business Intelligence**.
-
-I am interested in solving business problems through data and converting
-raw datasets into actionable insights.
+* Clean and transform raw datasets
+* Analyze data using SQL
+* Build Excel reports and dashboards
+* Create Power BI dashboards
+* Perform exploratory data analysis
+* Identify trends and business insights
+* Prepare analytical reports
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 **Email:** surya.career4@gmail.com
-
-💼 **GitHub:**  
-https://github.com/iisamratsuryaii-cell
+📧 **Email:** `surya.career4@gmail.com`
 
 ---
 
-⭐ If you find my projects useful, consider giving them a star!
+⭐ Thanks for visiting my profile!
 
-**Thanks for visiting my profile! 🚀**
+**Always learning. Always analyzing. Always improving. 🚀**
